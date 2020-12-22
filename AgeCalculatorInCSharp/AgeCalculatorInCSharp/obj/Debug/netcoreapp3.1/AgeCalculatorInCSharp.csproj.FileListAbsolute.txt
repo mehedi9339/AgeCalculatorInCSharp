@@ -1,0 +1,13 @@
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.exe
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.deps.json
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.runtimeconfig.json
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.runtimeconfig.dev.json
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.dll
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\bin\Debug\netcoreapp3.1\AgeCalculatorInCSharp.pdb
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.csprojAssemblyReference.cache
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.AssemblyInfoInputs.cache
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.AssemblyInfo.cs
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.dll
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.pdb
+C:\Users\Mehedi Hasan\Desktop\AgeCalculatorInCSharp\AgeCalculatorInCSharp\obj\Debug\netcoreapp3.1\AgeCalculatorInCSharp.genruntimeconfig.cache
